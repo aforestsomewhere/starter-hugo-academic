@@ -22,7 +22,7 @@ sections:
           icon_pack: fab
         - name: Bash/Shell/Python scripting in HPC environment
           description: 40%
-          icon: square-terminal
+          icon: rectangle-terminal
           icon_pack: fas
         - name: Conventional Microbiology
           description: 20%
@@ -40,27 +40,28 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: PhD Student
+          company: APC Microbiome Ireland
           company_url: ''
           company_logo: org-gc
           location: California
-          date_start: '2021-01-01'
+          date_start: '2018-09-30'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Planning and running experiments
+              * Bioinformatic processing and analysis of NGS datasets
+              * Dissemination of research
+           
+        - title: Laboratory Demonstrator
+          company: Munster Technological University
           company_url: ''
           company_logo: org-x
           location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          date_start: '2020-09-01'
+          date_end: '2021-06-30'
+          description: Led practical laboratory sessions for undergraduate students.
     design:
       columns: '2'
   - block: accomplishments
@@ -76,29 +77,37 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url:
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2022-07-30'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: Smith College
+          organization_url:
+          title: New England Biolabs Molecular Biology Workshop
           url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+        - certificate_url: https://www.futurelearn.com/certificates/e3ul19t
+          date_end: '2019-02-01'
+          date_start: ''
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: Wellcome Connecting Science Courses and Conferences
+          organization_url: https://www.wellcomeconnectingscience.org/
+          title: 'Bacterial Genomes: Accessing and Analysing Microbial Genome Data'
+          url: 
+        - certificate_url: https://www.futurelearn.com/certificates/6iisgjm
+          date_end: '2019-02-01'
+          date_start: ''
+          description: ''
+          organization: Wellcome Connecting Science Courses and Conferences
+          organization_url: https://www.wellcomeconnectingscience.org/
+          title: 'Bacterial Genomes: From DNA to Protein Function using Bioinformatics'
+          url: ''
+        - certificate_url: 
+          date_end: '2018-12-23'
+          date_start: ''
+          description: 'Credential ID 2622520722'
+          organization: Epigeum
+          organization_url: 
+          title: 'Research Integrity - Natural and Physical Sciences'
           url: ''
     design:
       columns: '2'
