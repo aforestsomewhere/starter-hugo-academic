@@ -1,13 +1,14 @@
 ---
-title: "An example journal article"
+title: "Quorum sensing in human gut and food microbiomes: Significance and potential for therapeutic targeting"
 authors:
-- admin
-- Robert Ford
+- A. Kate Falà
+- Avelino Álvarez-Ordóñez
+- Alain Filloux
+- Cormac Gahan
+- Paul David Cotter
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2022-11-25T00:00:00Z"
+doi: "10.3389/fmicb.2022.1002185"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,23 +20,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Frontiers in Microbiology, Volume 13 - 2022*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Human gut and food microbiomes interact during digestion. The outcome of these interactions influences the taxonomical composition and functional capacity of the resident human gut microbiome, with potential consequential impacts on health and disease. Microbe-microbe interactions between the resident and introduced microbiomes, which likely influence host colonisation, are orchestrated by environmental conditions, elements of the food matrix, host-associated factors as well as social cues from other microorganisms. Quorum sensing is one example of a social cue that allows bacterial communities to regulate genetic expression based on their respective population density and has emerged as an attractive target for therapeutic intervention. By interfering with bacterial quorum sensing, for instance, enzymatic degradation of signalling molecules (quorum quenching) or the application of quorum sensing inhibitory compounds, it may be possible to modulate the microbial composition of communities of interest without incurring negative effects associated with traditional antimicrobial approaches. In this review, we summarise and critically discuss the literature relating to quorum sensing from the perspective of the interactions between the food and human gut microbiome, providing a general overview of the current understanding of the prevalence and influence of quorum sensing in this context, and assessing the potential for therapeutic targeting of quorum sensing mechanisms.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper summarises and critically reviews the available literature on QS in biofilm formation, with a focus on the ecological niches of foods, food processing environments and the human gut microbiome.
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: https://www.frontiersin.org/articles/10.3389/fmicb.2022.1002185/pdf
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
