@@ -20,7 +20,7 @@ sections:
           description: 40%
           icon: r-project
           icon_pack: fab
-        - name: Bash/Shell/Python scripting in HPC environment
+        - name: Bash/Shell/Python scripting
           description: 40%
           icon: rectangle-terminal
           icon_pack: fas
@@ -43,8 +43,8 @@ sections:
         - title: PhD Student
           company: APC Microbiome Ireland
           company_url: ''
-          company_logo: org-gc
-          location: California
+          company_logo: 
+          location: Cork, Ireland
           date_start: '2018-09-30'
           date_end: ''
           description: |2-
@@ -57,8 +57,8 @@ sections:
         - title: Laboratory Demonstrator
           company: Munster Technological University
           company_url: ''
-          company_logo: org-x
-          location: California
+          company_logo: 
+          location: Cork, Ireland
           date_start: '2020-09-01'
           date_end: '2021-06-30'
           description: Led practical laboratory sessions for undergraduate students.
