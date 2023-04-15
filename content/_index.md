@@ -54,7 +54,7 @@ sections:
               * Bioinformatic processing and analysis of NGS datasets
               * Dissemination of research
               * Liaising with university administration e.g. IP, MTAs, Procurement
-          - title: PhD Student
+        - title: PhD Student
           company: APC Microbiome Ireland
           company_url: ''
           company_logo: org-gc
