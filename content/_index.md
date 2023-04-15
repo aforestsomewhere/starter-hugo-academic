@@ -28,7 +28,7 @@ sections:
           description: 20%
           icon: bacterium
           icon_pack: fas
-  - block: experience
+  - block: Experience
     content:
       title: Experience
       # Date format for experience
@@ -40,26 +40,31 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: PhD Student
+          company: APC Microbiome Ireland
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Cork, Ireland
+          date_start: '2018-01-10'
           date_end: ''
           description: |2-
+              Project Title: Antimicrobial Sensitisation through Quorum Quenching
               Responsibilities include:
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Planning and running experiments
+              * Bioinformatic processing and analysis of NGS datasets
+              * Dissemination of research
+              * Liaising with university administration e.g. IP, MTAs, Procurement 
+        - title: BSc (Hons) Nutrition and Health Science
+          company: Munster Technological University
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Cork, Ireland
+          date_start: '2014-09-01'
+          date_end: '2018-06-30'
+          description: |2-
+               Final Year Project: Microbes and Microplastics: Investigation of Biofilm-
+associated effects of plastic pollution in soils.
+               Erasmus+ Traineeship (April-July 2017): Internship with the Agricultural Microbiology lab of Prof. Rosanna Tofalo in the Università degli Studi di Teramo
     design:
       columns: '2'
   - block: accomplishments
