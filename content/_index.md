@@ -62,9 +62,9 @@ sections:
           date_start: '2014-01-09'
           date_end: ''
           description: |2-
-              Dissertation: Microplastics, Microbial Communities and Man:
+              Dissertation: Microplastics, Microbial Communities and Man -
 Predictions for Biofilm-Associated Effects
-              Erasmus+ Traineeship with lab of Prof. Rosanna Tofalo in Università degli Studi di Teramo (April - July 2017).
+              Erasmus+ Traineeship with lab of Prof. Rosanna Tofalo in Università degli Studi di Teramo:
     design:
       columns: '2'
   - block: accomplishments
