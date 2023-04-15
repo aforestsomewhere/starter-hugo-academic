@@ -54,6 +54,20 @@ sections:
               * Bioinformatic processing and analysis of NGS datasets
               * Dissemination of research
               * Liaising with university administration e.g. IP, MTAs, Procurement
+          - title: PhD Student
+          company: APC Microbiome Ireland
+          company_url: ''
+          company_logo: org-gc
+          location: Cork, Ireland
+          date_start: '2018-01-10'
+          date_end: ''
+          description: |2-
+              Project Title: Antimicrobial Sensitisation through Quorum Quenching
+              Responsibilities include:
+              * Planning and running experiments
+              * Bioinformatic processing and analysis of NGS datasets
+              * Dissemination of research
+              * Liaising with university administration e.g. IP, MTAs, Procurement
     design:
       columns: '2'
   - block: accomplishments
