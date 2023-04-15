@@ -62,8 +62,8 @@ sections:
           date_start: '2014-01-09'
           date_end: ''
           description: |2-
-              Project Title: Microbial Communities and Man: Predictions for Biofilm-Associated Effects
-              Responsibilities include:
+              Dissertation Title: Microbial Communities and Man: Predictions for Biofilm-Associated Effects
+              Erasmus+ Traineeship: lab of Prof. Rosanna Tofalo at the Università degli Studi di Teramo
     design:
       columns: '2'
   - block: accomplishments
