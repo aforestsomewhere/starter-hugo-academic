@@ -79,14 +79,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url:
           date_end: ''
           date_start: '2022-07-30'
           description: ''
           organization: Smith College
           organization_url:
           title: New England Biolabs Molecular Biology Workshop
-          url: ''
+          url:
         - certificate_url: https://www.futurelearn.com/certificates/e3ul19t
           date_end: ''
           date_start: ''2019-02-01'
@@ -102,7 +102,7 @@ sections:
           organization: DataCamp
           organization_url: https://www.datacamp.com
           title: 'Object-Oriented Programming in R'
-          url: ''
+          url:
     design:
       columns: '1'
   - block: collection
