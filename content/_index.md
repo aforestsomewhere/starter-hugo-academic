@@ -61,7 +61,10 @@ sections:
           location: Cork, Ireland
           date_start: '2014-01-09'
           date_end: ''
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              Dissertation: Microplastics, Microbial Communities and Man:
+Predictions for Biofilm-Associated Effects
+              Erasmus+ Traineeship with lab of Prof. Rosanna Tofalo in Università degli Studi di Teramo (April - July 2017).
     design:
       columns: '2'
   - block: accomplishments
