@@ -57,7 +57,7 @@ sections:
         - title: BSc (Hons) Nutrition and Health Science 
           company: Munster Technological University
           company_url: ''
-          company_logo: org-gc
+          company_logo: org-x
           location: Cork, Ireland
           date_start: '2014-01-09'
           date_end: ''
