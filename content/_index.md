@@ -1,3 +1,8 @@
+
+
+
+
+
 ---
 # Leave the homepage title empty to use the site title
 title:
@@ -22,8 +27,8 @@ sections:
           icon_pack: fab
         - name: Bash/Python
           description: 40%
-          icon: rectangle-terminal
-          icon_pack: fab
+          icon: terminal
+          icon_pack: fas
         - name: Conventional Microbiology
           description: 20%
           icon: bacterium
