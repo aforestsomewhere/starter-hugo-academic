@@ -40,7 +40,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Food Microbiology
+    - course: PhD in Food Micro
       institution: University College Cork
       year: 2018 - present
     - course: BSc (Hons) in Nutrition and Health Science 
