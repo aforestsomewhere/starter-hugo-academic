@@ -1,10 +1,23 @@
----
-# Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
 type: landing
 
 sections:
+  - block: hero
+    content:
+      title: testing
+      image:
+        filename:
+        label: >-
+          <div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy Website Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
+      text: testing.
+        <!--Custom spacing-->
+        <div class="mb-3"></div>
+        <!--GitHub Button JS-->
+        <script async defer src="https://buttons.github.io/buttons.js"></script>
+    design:
+      background:
+        gradient_end: '#1976d2'
+        gradient_start: '#004ba0'
+        text_color_light: true
   - block: about.avatar
     id: about
     content:
