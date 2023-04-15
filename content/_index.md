@@ -61,10 +61,8 @@ sections:
           location: Cork, Ireland
           date_start: '2014-01-09'
           date_end: ''
-          description: |2-
-              Dissertation: Microplastics, Microbial Communities and Man -
-Predictions for Biofilm-Associated Effects
-              Erasmus+ Traineeship with lab of Prof. Rosanna Tofalo in Università degli Studi di Teramo:
+           description:  Dissertation: Microplastics, Microbial Communities and Man:
+Predictions for Biofilm-Associated Effects.
     design:
       columns: '2'
   - block: accomplishments
