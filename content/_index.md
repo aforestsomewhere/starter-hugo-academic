@@ -53,17 +53,7 @@ sections:
               * Planning and running experiments
               * Bioinformatic processing and analysis of NGS datasets
               * Dissemination of research
-              * Liaising with university administration e.g. IP, MTAs, Procurement 
-        - title: BSc (Hons) Nutrition and Health Science
-          company: Munster Technological University
-          company_url: ''
-          company_logo: org-x
-          location: Cork, Ireland
-          date_start: '2014-09-01'
-          date_end: '2018-06-30'
-          description: |2-
-              Final Year Project: Microbes and Microplastics: Investigation of Biofilm-
-associated effects of plastic pollution in soils. Erasmus+ Traineeship (April-July 2017): Internship with the Agricultural Microbiology lab of Prof. Rosanna Tofalo in the Università degli Studi di Teramo
+              * Liaising with university administration e.g. IP, MTAs, Procurement
     design:
       columns: '2'
   - block: accomplishments
