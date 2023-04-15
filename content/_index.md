@@ -84,7 +84,7 @@ sections:
           date_start: '2022-07-15'
           description: ''
           organization: The Williams Lab
-          organization_url: https://www.coursera.org
+          organization_url: https://www.science.smith.edu/sawlab/
           title: Molecular Biology Summer Course
           url: ''
         - certificate_url: https://www.edx.org
@@ -92,7 +92,7 @@ sections:
           date_start: '2019-02-01'
           description: ''
           organization: Wellcome Connecting Science
-          organization_url: https://www.edx.org
+          organization_url: https://www.wellcomeconnectingscience.org/
           title: Bacterial Genomes - Accessing and Analysing Microbial Genome Data
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
@@ -100,7 +100,7 @@ sections:
           date_start: '2018-12-20'
           description: ''
           organization: Epigeum
-          organization_url: https://www.datacamp.com
+          organization_url: https://www.epigeum.com/courses/research/
           title: 'Research Integrity - Natural and Physical Sciences'
           url: ''
     design:
