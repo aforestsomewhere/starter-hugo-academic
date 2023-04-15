@@ -94,7 +94,7 @@ sections:
           organization: Wellcome Connecting Science Courses and Conferences
           organization_url: https://www.edx.org
           title: Bacterial Genomes: Accessing and Analysing Microbial Genome Data
-          url: https://www.futurelearn.com/certificates/e3ul19t
+          url: ''
         - certificate_url: https://www.futurelearn.com/certificates/6iisgjm
           date_end: '2019-02-01'
           date_start: ''
