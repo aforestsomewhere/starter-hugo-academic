@@ -73,9 +73,6 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -84,5 +81,7 @@ email: ''
 highlight_name: true
 ---
 
-Katie Falà is a PhD student at the Vision 1 lab. Their research interests include bacterial genomics, quorum sensing and microbial ecology.
+I'm a PhD student with the Vision 1 lab at Teagasc, under Prof. Paul Cotter. My thesis (projected submission Autumn 2023) investigates bacterial quorum sensing using a combination of wet and dry lab approaches, with my main research interests being in bacterial genomics and microbial ecology. I am open to upcoming opportunities with like-minded collaborators, as well as connecting with other microbiologists grappling with similiar problems. 
+
+
 {style="text-align: justify;"}
