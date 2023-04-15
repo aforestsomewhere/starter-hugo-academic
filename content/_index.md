@@ -54,20 +54,17 @@ sections:
               * Bioinformatic processing and analysis of NGS datasets
               * Dissemination of research
               * Liaising with university administration e.g. IP, MTAs, Procurement
-        - title: PhD Student
-          company: APC Microbiome Ireland
+        - title: BSc (Hons) Nutrition and Health Science 
+          company: Munster Technological University
           company_url: ''
           company_logo: org-gc
           location: Cork, Ireland
-          date_start: '2018-01-10'
+          date_start: '2014-01-09'
           date_end: ''
           description: |2-
-              Project Title: Antimicrobial Sensitisation through Quorum Quenching
-              Responsibilities include:
-              * Planning and running experiments
-              * Bioinformatic processing and analysis of NGS datasets
-              * Dissemination of research
-              * Liaising with university administration e.g. IP, MTAs, Procurement
+              Dissertation: Microplastics, Microbial Communities and Man:
+Predictions for Biofilm-Associated Effects
+              Erasmus+ Traineeship with lab of Prof. Rosanna Tofalo in Università degli Studi di Teramo (April - July 2017)
     design:
       columns: '2'
   - block: accomplishments
