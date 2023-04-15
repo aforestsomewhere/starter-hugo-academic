@@ -20,10 +20,10 @@ sections:
           description: 40%
           icon: r-project
           icon_pack: fab
-        - name: Bash/Shell/Python scripting
+        - name: Bash/Python
           description: 40%
           icon: rectangle-terminal
-          icon_pack: fas
+          icon_pack: fab
         - name: Conventional Microbiology
           description: 20%
           icon: bacterium
