@@ -17,16 +17,16 @@ sections:
       title: Skills
       items:
         - name: R
-          description: 90%
+          description: 40%
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
+        - name: Bash/Python
+          description: 40%
+          icon: terminal
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: Microbiology
+          description: 20%
+          icon: bacterium
           icon_pack: fas
   - block: experience
     content:
