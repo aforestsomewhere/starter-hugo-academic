@@ -83,25 +83,9 @@ sections:
           date_end: '2022-07-30'
           date_start: ''
           description: ''
-          organization: The Williams Lab, Smith College, Northampton (MA)
+          organization: The Williams Lab
           organization_url: https://www.science.smith.edu/sawlab/
           title: Molecular Biology Summer Course
-          url: ''
-        - certificate_url: https://www.futurelearn.com/certificates/e3ul19t
-          date_end: '2019-02-01'
-          date_start: ''
-          description: ''
-          organization: Wellcome Connecting Science Courses and Conferences
-          organization_url: https://www.edx.org
-          title: Bacterial Genomes: Accessing and Analysing Microbial Genome Data
-          url: ''
-        - certificate_url: https://www.futurelearn.com/certificates/6iisgjm
-          date_end: '2019-02-01'
-          date_start: ''
-          description: ''
-          organization: Wellcome Connecting Science Courses and Conferences
-          organization_url: https://www.futurelearn.com/certificates/6iisgjm
-          title: Bacterial Genomes: Accessing and Analysing Microbial Genome Data
           url: ''
     design:
       columns: '1'
