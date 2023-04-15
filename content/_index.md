@@ -83,15 +83,15 @@ sections:
           date_end: ''
           date_start: '2021-01-25'
           description: ''
-          organization: Coursera
+          organization: The Williams Lab
           organization_url: https://www.coursera.org
           title: Molecular Biology Summer Course
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
+          description: ''
+          organization: Wellcome Connecting Science
           organization_url: https://www.edx.org
           title: Bacterial Genomes - Accessing and Analysing Microbial Genome Data
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
@@ -99,7 +99,7 @@ sections:
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
-          organization: DataCamp
+          organization: Epigeum
           organization_url: https://www.datacamp.com
           title: 'Research Integrity - Natural and Physical Sciences'
           url: ''
