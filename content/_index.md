@@ -79,20 +79,21 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url:
+        - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2022-07-30'
+          date_start: '2021-01-25'
           description: ''
-          organization: Smith College
-          organization_url:
-          title: New England Biolabs Molecular Biology Workshop
-        - certificate_url: https://www.futurelearn.com/certificates/e3ul19t
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Neural Networks and Deep Learning
+          url: ''
+        - certificate_url: https://www.edx.org
           date_end: ''
-          date_start: ''2019-02-01'
-          description: 
-          organization: Wellcome Connecting Science Courses and Conferences
-          organization_url: https://www.wellcomeconnectingscience.org/
-          title: Bacterial Genomes: Accessing and Analysing Microbial Genome Data
+          date_start: '2021-01-01'
+          description: Formulated informed blockchain models, hypotheses, and use cases.
+          organization: edX
+          organization_url: https://www.edx.org
+          title: Blockchain Fundamentals
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
@@ -101,7 +102,7 @@ sections:
           organization: DataCamp
           organization_url: https://www.datacamp.com
           title: 'Object-Oriented Programming in R'
-          url:
+          url: ''
     design:
       columns: '1'
   - block: collection
