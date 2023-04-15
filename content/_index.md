@@ -85,7 +85,7 @@ sections:
           description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: New England Biolabs Molecular Biology Workshop
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
@@ -93,7 +93,7 @@ sections:
           description: Formulated informed blockchain models, hypotheses, and use cases.
           organization: edX
           organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
+          title: Bacterial Genomes: Accessing and Analysing Microbial Genome Data
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
@@ -101,7 +101,7 @@ sections:
           description: ''
           organization: DataCamp
           organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          title: 'Bacterial Genomes: From DNA to Protein Function using Bioinformatics'
           url: ''
     design:
       columns: '1'
