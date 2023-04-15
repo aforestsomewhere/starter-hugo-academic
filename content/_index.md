@@ -61,7 +61,7 @@ sections:
           location: Cork, Ireland
           date_start: '2014-01-09'
           date_end: ''
-          description: Dissertation: Microplastics, Microbial Communities and Man - Predictions for Biofilm-Associated Effects.
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
