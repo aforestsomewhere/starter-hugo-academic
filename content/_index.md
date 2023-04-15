@@ -61,8 +61,7 @@ sections:
           location: Cork, Ireland
           date_start: '2014-01-09'
           date_end: ''
-          description:  Dissertation: Microplastics, Microbial Communities and Man:
-Predictions for Biofilm-Associated Effects.
+          description: Dissertation: Microplastics, Microbial Communities and Man - Predictions for Biofilm-Associated Effects.
     design:
       columns: '2'
   - block: accomplishments
