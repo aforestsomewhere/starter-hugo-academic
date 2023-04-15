@@ -84,8 +84,16 @@ sections:
           date_start:
           description: ''
           organization: Smith College
-          organization_url: https://www.coursera.org
+          organization_url: https://www.science.smith.edu/sawlab/
           title: New England Biolabs Molecular Biology Workshop
+          url: ''
+        - certificate_url:
+          date_end: '2018-12-23'
+          date_start:
+          description: 'Credential ID 2622520722'
+          organization: Epigeum
+          organization_url: https://www.coursera.org
+          title: Research Integrity - Natural and Physical Sciences
           url: ''
     design:
       columns: '1'
