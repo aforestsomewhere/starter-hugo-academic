@@ -80,8 +80,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+          date_end: '2022-07-30'
+          date_start: '2022-07-15'
           description: ''
           organization: The Williams Lab
           organization_url: https://www.coursera.org
@@ -89,15 +89,15 @@ sections:
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
-          date_start: '2021-01-01'
+          date_start: '2019-02-01'
           description: ''
           organization: Wellcome Connecting Science
           organization_url: https://www.edx.org
           title: Bacterial Genomes - Accessing and Analysing Microbial Genome Data
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_end: '2018-12-21'
+          date_start: '2018-12-20'
           description: ''
           organization: Epigeum
           organization_url: https://www.datacamp.com
