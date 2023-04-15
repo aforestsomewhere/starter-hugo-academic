@@ -86,7 +86,6 @@ sections:
           organization: Smith College
           organization_url:
           title: New England Biolabs Molecular Biology Workshop
-          url:
         - certificate_url: https://www.futurelearn.com/certificates/e3ul19t
           date_end: ''
           date_start: ''2019-02-01'
