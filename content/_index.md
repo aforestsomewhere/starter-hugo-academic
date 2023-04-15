@@ -90,10 +90,10 @@ sections:
         - certificate_url: https://www.futurelearn.com/certificates/e3ul19t
           date_end: '2019-02-01'
           date_start: ''
-          description: Bacterial Genomes: Accessing and Analysing Microbial Genome Data.
+          description: ''
           organization: Wellcome Connecting Science Courses and Conferences
           organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
+          title: Bacterial Genomes: Accessing and Analysing Microbial Genome Data
           url: https://www.futurelearn.com/certificates/e3ul19t
         - certificate_url: https://www.futurelearn.com/certificates/6iisgjm
           date_end: '2019-02-01'
@@ -101,7 +101,7 @@ sections:
           description: ''
           organization: Wellcome Connecting Science Courses and Conferences
           organization_url: https://www.futurelearn.com/certificates/6iisgjm
-          title: 'Bacterial Genomes: Accessing and Analysing Microbial Genome Data'
+          title: Bacterial Genomes: Accessing and Analysing Microbial Genome Data
           url: ''
     design:
       columns: '1'
