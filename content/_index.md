@@ -62,7 +62,7 @@ sections:
           date_start: '2014-01-09'
           date_end: ''
           description: |2-
-              Project Title: Antimicrobial Sensitisation through Quorum Quenching
+              Project Title: Microbial Communities and Man: Predictions for Biofilm-Associated Effects
               Responsibilities include:
     design:
       columns: '2'
