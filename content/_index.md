@@ -88,8 +88,8 @@ sections:
           title: Molecular Biology Summer Course
           url: ''
         - certificate_url: https://www.futurelearn.com/certificates/e3ul19t
-          date_end: ''
-          date_start: '2019-02-01'
+          date_end: '2019-02-01'
+          date_start: ''
           description: Bacterial Genomes: Accessing and Analysing Microbial Genome Data.
           organization: Wellcome Connecting Science Courses and Conferences
           organization_url: https://www.edx.org
