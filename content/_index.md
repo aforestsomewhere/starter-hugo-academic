@@ -87,7 +87,7 @@ sections:
           organization_url: https://www.science.smith.edu/sawlab/
           title: Molecular Biology Summer Course
           url: ''
-        - certificate_url: https://www.futurelearn.com/certificates/6iisgjm
+        - certificate_url: https://www.futurelearn.com/certificates/e3ul19t
           date_end: ''
           date_start: '2019-02-01'
           description: ''
@@ -95,10 +95,18 @@ sections:
           organization_url: https://www.wellcomeconnectingscience.org/
           title: Bacterial Genomes - Accessing and Analysing Microbial Genome Data
           url: ''
+        - certificate_url: https://www.futurelearn.com/certificates/6iisgjm
+          date_end: ''
+          date_start: '2019-02-01'
+          description: ''
+          organization: Wellcome Connecting Science
+          organization_url: https://www.wellcomeconnectingscience.org/
+          title: Bacterial Genomes: From DNA to Protein Function using Bioinformatics
+          url: ''
         - certificate_url: 
           date_end: ''
           date_start: '2018-12-20'
-          description: ''
+          description: 'Credential ID 2622520722'
           organization: Epigeum
           organization_url: https://www.epigeum.com/courses/research/
           title: 'Research Integrity - Natural and Physical Sciences'
