@@ -80,28 +80,28 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://www.science.smith.edu/sawlab/
-          date_end: ''
-          date_start: '2021-01-25'
+          date_end: '2022-07-30'
+          date_start: ''
           description: ''
-          organization: Coursera
+          organization: The Williams Lab, Smith College, Northampton (MA)
           organization_url: https://www.science.smith.edu/sawlab/
-          title: Neural Networks and Deep Learning
+          title: Molecular Biology Summer Course
           url: ''
         - certificate_url: https://www.futurelearn.com/certificates/e3ul19t
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
+          date_start: '2019-02-01'
+          description: Bacterial Genomes: Accessing and Analysing Microbial Genome Data.
+          organization: Wellcome Connecting Science Courses and Conferences
           organization_url: https://www.edx.org
           title: Blockchain Fundamentals
           url: https://www.futurelearn.com/certificates/e3ul19t
         - certificate_url: https://www.futurelearn.com/certificates/6iisgjm
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_end: '2019-02-01'
+          date_start: ''
           description: ''
-          organization: DataCamp
+          organization: Wellcome Connecting Science Courses and Conferences
           organization_url: https://www.futurelearn.com/certificates/6iisgjm
-          title: 'Object-Oriented Programming in R'
+          title: 'Bacterial Genomes: Accessing and Analysing Microbial Genome Data'
           url: ''
     design:
       columns: '1'
