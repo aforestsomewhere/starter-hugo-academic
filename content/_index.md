@@ -79,25 +79,25 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: 
-          date_end: '2022-07-30'
-          date_start: ''
-          description: ''
-          organization: The Williams Lab, Smith College
-          organization_url: https://www.science.smith.edu/sawlab/
-          title: Molecular Biology Summer Course
-          url: ''
-        - certificate_url: 
+        - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: ''
+          date_start: '2021-01-25'
+          description: ''
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Neural Networks and Deep Learning
+          url: ''
+        - certificate_url: https://www.edx.org
+          date_end: ''
+          date_start: '2021-01-01'
           description: Formulated informed blockchain models, hypotheses, and use cases.
           organization: edX
           organization_url: https://www.edx.org
           title: Blockchain Fundamentals
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: 
+        - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
-          date_start: ''
+          date_start: '2020-07-01'
           description: ''
           organization: DataCamp
           organization_url: https://www.datacamp.com
