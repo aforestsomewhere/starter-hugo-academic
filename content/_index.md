@@ -61,7 +61,9 @@ sections:
           location: Cork, Ireland
           date_start: '2014-01-09'
           date_end: ''
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              Project Title: Antimicrobial Sensitisation through Quorum Quenching
+              Responsibilities include:
     design:
       columns: '2'
   - block: accomplishments
