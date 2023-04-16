@@ -60,7 +60,7 @@ sections:
           company_logo: org-x
           location: Cork, Ireland
           date_start: '2014-01-09'
-          date_end: ''
+          date_end: '2018-06-01'
           description: |2-
               Dissertation Title: Microbial Communities and Man: Predictions for Biofilm-Associated Effects
               Erasmus+ Traineeship: lab of Prof. Rosanna Tofalo at the Università degli Studi di Teramo
@@ -133,10 +133,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Wet lab
+          tag: Wet lab
+        - name: Bioinformatics
+          tag: Bioinformatics
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -145,7 +145,7 @@ sections:
       flip_alt_rows: false
   - block: tag_cloud
     content:
-      title: Popular Topics
+      title: Areas of interest
     design:
       columns: '2'
   - block: contact
@@ -159,7 +159,7 @@ sections:
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: DM Me
+          name: Twitter
           link: 'https://twitter.com/forestsomewhere'
         - icon: video
           icon_pack: fas
