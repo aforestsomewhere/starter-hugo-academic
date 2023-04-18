@@ -161,16 +161,16 @@ sections:
           icon_pack: fab
           name: Twitter
           link: 'https://twitter.com/forestsomewhere'
-        - icon: fa-github
-          icon_pack: fas
+        - icon: github
+          icon_pack: fab
           name: Github
           link: 'https://github.com/aforestsomewhere'
         - icon: video
           icon_pack: fas
           name: Zoom
           link: 'https://us05web.zoom.us/j/7682670615?pwd=OEFDVW41eWdGa0JhbjBHUWZoSlduZz09'
-        - icon: fa-linkedin
-          icon_pack: fas
+        - icon: linkedin
+          icon_pack: fab
           name: LinkedIn
           link: 'https://www.linkedin.com/in/katiefala1/'
       # Automatically link email and phone or display as text?
