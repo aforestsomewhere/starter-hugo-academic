@@ -4,6 +4,10 @@ summary: Exploring the diversity of AHL quorum sensing in the genus Hafnia
 tags:
   - Wet Lab
   - Bioinformatics
+  - Quorum Sensing
+  - AHL
+  - AMR
+  - Biofilm
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
