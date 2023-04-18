@@ -85,7 +85,7 @@ email: ''
 highlight_name: true
 ---
 
-I'm a PhD student with the Vision 1 lab at Teagasc, under Prof. Paul Cotter. My thesis (projected submission Autumn 2023) investigates bacterial quorum sensing using a combination of wet and dry lab approaches, with my main research interests being in bacterial genomics and microbial ecology. Open to connecting with like-minded microbiologists and future collaborators for post-PhD connections and opportunities. Interested in democratisation of science (e.g. Arduino, 3D printing) and applications of deep learning in microbiology.
+I'm a PhD student with the Vision 1 lab at Teagasc, under Prof. Paul Cotter. My thesis (projected submission Autumn 2023) investigates bacterial quorum sensing using a combination of wet and dry lab approaches, with my main research interests being in bacterial genomics and microbial ecology. Open to linking with like-minded microbiologists and future collaborators for post-PhD connections and opportunities. Interested in democratisation of science (e.g. Arduino, 3D printing) and applications of deep learning in microbiology.
 
 
 {style="text-align: justify;"}
