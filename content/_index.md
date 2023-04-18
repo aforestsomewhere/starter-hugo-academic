@@ -161,7 +161,7 @@ sections:
           icon_pack: fab
           name: Twitter
           link: 'https://twitter.com/forestsomewhere'
-        - icon: github
+        - icon: fa-github
           icon_pack: fas
           name: Github
           link: 'https://github.com/aforestsomewhere'
@@ -169,7 +169,7 @@ sections:
           icon_pack: fas
           name: Zoom
           link: 'https://us05web.zoom.us/j/7682670615?pwd=OEFDVW41eWdGa0JhbjBHUWZoSlduZz09'
-        - icon: linkedin
+        - icon: fa-linkedin
           icon_pack: fas
           name: LinkedIn
           link: 'https://www.linkedin.com/in/katiefala1/'
