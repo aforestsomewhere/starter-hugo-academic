@@ -64,12 +64,15 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
+    label: Google Scholar
     link: https://scholar.google.com/citations?hl=en&user=cKVAIYsAAAAJ
   - icon: github
     icon_pack: fab
+    label: Github
     link: https://github.com/aforestsomewhere
   - icon: linkedin
     icon_pack: fab
+    label: LinkedIn
     link: https://www.linkedin.com/in/katiefala1/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -82,7 +85,7 @@ email: ''
 highlight_name: true
 ---
 
-I'm a PhD student with the Vision 1 lab at Teagasc, under Prof. Paul Cotter. My thesis (projected submission Autumn 2023) investigates bacterial quorum sensing using a combination of wet and dry lab approaches, with my main research interests being in bacterial genomics and microbial ecology. I am open to upcoming opportunities with like-minded collaborators, as well as connecting with other microbiologists grappling with similiar problems. 
+I'm a PhD student with the Vision 1 lab at Teagasc, under Prof. Paul Cotter. My thesis (projected submission Autumn 2023) investigates bacterial quorum sensing using a combination of wet and dry lab approaches, with my main research interests being in bacterial genomics and microbial ecology. Open to connecting with like-minded microbiologists and future collaborators for post-PhD connections and opportunities. Interested in democratisation of science (e.g. Arduino, 3D printing) and applications of deep learning in microbiology.
 
 
 {style="text-align: justify;"}
