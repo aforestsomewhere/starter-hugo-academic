@@ -29,7 +29,9 @@ abstract: Human gut and food microbiomes interact during digestion. The outcome 
 summary: This paper summarises and critically reviews the available literature on QS in biofilm formation, with a focus on the ecological niches of foods, food processing environments and the human gut microbiome.
 
 tags:
-- Source Themes
+- Quorum Sensing
+- Quorum Quenching
+- Food microbiomes
 featured: true
 
 # links:
