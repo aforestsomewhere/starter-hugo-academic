@@ -154,17 +154,25 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Get in contact with me through the form below, or through linked social media.
+        Get in contact with me through the form below, or through Twitter/Github/LinkedIn.
       # Contact (add or remove contact options as necessary)
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: Twitter
           link: 'https://twitter.com/forestsomewhere'
+        - icon: Github
+          icon_pack: fab
+          name: github
+          link: 'https://github.com/aforestsomewhere'
         - icon: video
           icon_pack: fas
           name: Zoom
           link: 'https://us05web.zoom.us/j/7682670615?pwd=OEFDVW41eWdGa0JhbjBHUWZoSlduZz09'
+        - icon: LinkedIn
+          icon_pack: fas
+          name: linkedin
+          link: 'https://www.linkedin.com/in/katiefala1/'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
