@@ -26,7 +26,7 @@ organizations:
     url: https://www.ucc.ie/en/microbiology/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a final year PhD student wrapping up my thesis.
+bio: PhD student in Food Microbiology, finishing my thesis (rather than my thesis finishing me!)
 
 # Interests to show in About widget
 interests:
@@ -36,11 +36,12 @@ interests:
   - Microbial Genomics and Metagenomics
   - Bioinformatics
   - Open Science
+  - Machine Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Food Micro
+    - course: PhD in Food Microbiology
       institution: University College Cork
       year: 2018 - present
     - course: BSc (Hons) in Nutrition and Health Science 
